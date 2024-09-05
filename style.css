@@ -1,0 +1,20 @@
+h1 {
+    font-family: "Times New Roman", Gerogia, serif;
+    text-align: center;
+    font-size: 75px;
+    background-color: aquamarine;
+    font-weight: bolder;
+    padding: 30px;
+    border: 100px;
+    margin: auto;
+}
+
+.crazy {
+    font-family: "Times New Roman", Gerogia, serif;
+    color: black;
+    font-size: 40px;
+}
+
+* {
+    background-color: beige;
+}
